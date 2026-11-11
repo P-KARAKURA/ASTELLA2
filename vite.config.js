@@ -5,7 +5,7 @@ import { defineConfig } from 'vite'
 const isProduction = process.env.NODE_ENV === 'production'
 
 export default defineConfig({
-  base: isProduction ? '/ASTELLA-1/' : '/',
+  base: isProduction ? '/ASTELLA2/' : '/',
   plugins: [
     react(),
     babel({ presets: [reactCompilerPreset()] })

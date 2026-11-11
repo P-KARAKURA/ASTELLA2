@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://P-KARAKURA.github.io/ASTELLA-1/",
+  "homepage": "https://P-KARAKURA.github.io/ASTELLA2/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
